@@ -1,0 +1,11 @@
+package com.seraphim;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PartnersApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(PartnersApplication.class, args);
+    }
+}
